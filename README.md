@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+**I'm currently learning programming on Rust**    
+**In the future I would like to create various with Rust🍁**
+
+<!--
+**I'm currently learning programming on C++**    
+**In the future I would like to create various with C++🍁** -->
+
+
 <!--
 **redsappan/redsappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
