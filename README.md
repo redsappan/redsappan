@@ -1,12 +1,8 @@
 ### Hi there 👋
 
 
-**I'm currently learning programming on Rust**    
-**In the future I would like to create various with Rust🍁**
-
-<!--
 **I'm currently learning programming on C++**    
-**In the future I would like to create various with C++🍁** -->
+**In the future I would like to create various with C++🍁**
 
 
 <!--
