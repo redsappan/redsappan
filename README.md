@@ -4,7 +4,7 @@
 **I'm currently learning programming on C++**    
 **In the future I would like to create various with C++🍁**  
 
-My Profile Site (Create on Jekyll by Github Pages)  
+My Profile Site (Created with Jekyll and Github Pages)  
 https://redsappan.github.io/
 
 
